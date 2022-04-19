@@ -10,7 +10,7 @@ class IncreaseCounter extends Component {
                 <button onClick={e => {
                     this.props.dispatch(increaseCounter());
                 }}>
-                1 arttırır
+                1 increase
                 </button>
             </div>
         )
