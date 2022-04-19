@@ -1,3 +1,6 @@
-# Getting Started with Create React App
+# For start
 
 ### `npm start`
+
+
+#### Increase counter from Reactjs redux
