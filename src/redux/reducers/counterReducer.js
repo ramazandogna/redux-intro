@@ -12,7 +12,7 @@ const counterReducer = (state = 0, action) => {
       return (newState = state + action.payload);
     default:
       return state;
+      
   }
 };
-
 export default counterReducer;

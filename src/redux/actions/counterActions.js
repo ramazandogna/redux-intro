@@ -1,7 +1,7 @@
 import * as actionTypes from "./actionTypes"
 
 
- export const increaseCounter=() => ({
+ export const inercreaseCount=() => ({
      type: actionTypes.INCREASE_COUNTER,
      payload: 1
  })
